@@ -1,0 +1,17 @@
+{
+  "provider_http" : "http://127.0.0.1:8545",
+  "provider_wss" : "wss://127.0.0.1:8546",
+  "wallet_address": "0xA63bcE801870de204B080A3B85Ba51b94bf87b84",
+  "private_key": "a2d23b89dc056a6d1abf0ce2200b0ebdcaec2a7e0cccc1135dd3eeed1cabb00d",
+  "new_token_address": "0xd084944d3c05cd115c09d072b9f44ba3e0e45921",
+  "presale_address" : "",
+  "buy_amount": 0.001,
+  "trailing_stop": 5,
+  "take_profit": 10,
+  "stop_loss": 90,
+  "gas_price": 5,
+  "gas_limit": 1000000,
+  "slippage": 100,
+  "speed": 1.3
+}
+
